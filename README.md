@@ -9,8 +9,6 @@ We might try to lose weight by eating the occasional healthy meal and trying som
 
 ## User Story
 
-The following topics will be covered in this module:
-
 As a user, I want to be able to see what workouts I have completed for the week and what food, calories I have eaten to ensure that I am following a strict plan
 
 ## Technologies Used
