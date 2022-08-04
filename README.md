@@ -15,12 +15,12 @@ As a user, I want to be able to see what workouts I have completed for the week 
 
 ## Technologies Used
 
-Stripe 
-React 
-Heroku 
-Mongoose 
-Bcrypt 
-Express
+Stripe / 
+React /
+Heroku /
+Mongoose /
+Bcrypt /
+Express /
 
 ## Deployment
 
